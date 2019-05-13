@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Tianyu S. Ren</title>
+        <link>http://shin2suka.github.io/posts/</link>
+        <description>Recent content in Posts on Tianyu S. Ren</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Tianyu S. Ren</copyright>
+        <lastBuildDate>Sat, 11 May 2019 14:49:27 -0700</lastBuildDate>
+        <atom:link href="http://shin2suka.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First Post</title>
+            <link>http://shin2suka.github.io/posts/my-first-post/</link>
+            <pubDate>Sat, 11 May 2019 14:49:27 -0700</pubDate>
+            
+            <guid>http://shin2suka.github.io/posts/my-first-post/</guid>
+            <description>This is a new version of my website.
+Built in Vancouver, by a boring guy</description>
+            <content type="html"><![CDATA[<p>This is a new version of my website.</p>
+
+<p>Built in Vancouver, by a boring guy</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
