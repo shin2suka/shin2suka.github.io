@@ -40,9 +40,8 @@ My favourite song:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://shin2suka.github.io/projects/</guid>
-      <description>Markov Chain Monte Carlo(MCMC)   Implemented several sampling methods such as rejection sampling, importance sampling, Metropolis-Hastings sampling methods.
- Python code  Report    Naïve Bayes, Logistic Regression, Gaussian Mixtures on MNIST   Fitted both generative and discriminative models to the MNIST dataset of handwritten numbers. Implementation has been vectorized.
- Python code  Report    Cross Validation   K-fold cross validation procedure to tune the penalty parameter λ in Ridge regression.</description>
+      <description>h4 { margin-left: 20px; color: #1abc9c; } .project a.main-nav-item { text-decoration: none; } .project a.main-nav-item:hover { color: #1abc9c; text-decoration: none; }   Markov Chain Monte Carlo(MCMC)  Implemented several sampling methods such as rejection sampling, importance sampling, Metropolis-Hastings sampling methods.
+ Python code  Report   Naïve Bayes, Logistic Regression, Gaussian Mixtures on MNIST  Fitted both generative and discriminative models to the MNIST dataset of handwritten numbers.</description>
     </item>
     
   </channel>
