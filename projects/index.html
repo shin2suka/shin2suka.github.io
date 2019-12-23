@@ -42,7 +42,7 @@
 
 
 
-<meta itemprop="wordCount" content="314">
+<meta itemprop="wordCount" content="320">
 
 
 
@@ -181,6 +181,15 @@
 		color: #ed5a65;
 	}
 </style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+	$(function(){
+	$('.project').hide();
+	$('div.project').each(function(i){
+	$(this).delay(i*800).fadeIn('slow');
+	});
+	});
+</script>
 <div class="project">
 	<div class="title">
 		<i class='fas fa-file-alt' style='font-size:24px'></i>
